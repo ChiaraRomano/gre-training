@@ -73,7 +73,7 @@ unspecified
 - Maiuri,*Ercolano*, pp. 367-368 and fig. 293 (plan) on p. 362  [(worldcat)](https://search.worldcat.org/title/490581395)
 - Niccolini,*Real museo borbonico*, vol. 7, fig. 59 (plan), description by Bechi, pp. 19-21 [(worldcat)](https://search.worldcat.org/title/277993202)
 - Ruggiero, *Ercolano*, pp. 541-545 (contains the detailed reports of Bonucci)[(worldcat)](https://search.worldcat.org/title/18405521)
--
+
 
 ## Places
 
