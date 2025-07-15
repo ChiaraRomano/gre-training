@@ -2,10 +2,10 @@
 gre_id: "a357172ce7"
 aliases: [/id/a357172ce7]
 type: garden
-title: "Casadetta del Genio"
+title: "Casa detta del Genio"
 latlon: [ 40.805843, 14.348058 ]
 author: Wilhelmina Jashemski
-contributor: Tiffany Y. Fong
+contributor: Tiffany Y. Fong, Chiara Romano
 Jashemski-catalogue: 535-536
 date: 2020-09-29
 modified: 2025-06-29
@@ -14,33 +14,29 @@ draft: true
 
 ## Province
 
-- [Italia]({{<relref "../..">}})
 - {{< id vocab="Pleiades" id="1052" name="Italia" >}}
 
 ## Location
 
-- [Herculaneum]({{<relref "..">}}) \
 - {{< id vocab="Pleiades" id="432873" name="Herculaneum" >}}
-
-## Location Description
-
-An ancient Roman town of Campania destroyed by the eruption of Mt. Vesuvius in A.D.79. Named as a UNESCO World Heritage Site in 1997.
 
 ## Insula
 
-II; III
+II
 
 ## House
 
-3; 3
+3
 
 ## Garden
 
-Casadetta del Genio
+Casa detta del Genio
 
 ## Keywords
 
 - {{< keyword "porticoes" >}}
+- {{< keyword "pools" >}}
+
 
 ## Garden Description
 
