@@ -5,25 +5,19 @@ type: garden
 title: "Casa D'Argo"
 latlon: [ 40.805843, 14.348058 ]
 author: Wilhelmina Jashemski
-contributor: Tiffany Y. Fong
+contributor: Tiffany Y. Fong, Chiara Romano
 Jashemski-catalogue: 533-534
 date: 2020-09-29
 modified: 2025-06-29
-draft: true
+draft: false
 ---
 
 ## Province
 
-- [Italia]({{<relref "../..">}})
 - {{< id vocab="Pleiades" id="1052" name="Italia" >}}
 ## Location
 
-- [Herculaneum]({{<relref "..">}})
 - {{< id vocab="Pleiades" id="432873" name="Herculaneum" >}}
-
-## Location Description
-
-An ancient Roman town of Campania destroyed by the eruption of Mt. Vesuvius in A.D.79. Named as a UNESCO World Heritage Site in 1997.
 
 ## Insula
 
@@ -44,6 +38,8 @@ Casa D'Argo
 - {{< keyword "peristyles" >}}
 - {{< keyword "porticoes" >}}
 - {{< keyword "gutters" >}}
+- {{< keyword "garden painting" >}}
+
 
 ## Garden Description
 
